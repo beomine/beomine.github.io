@@ -10,7 +10,8 @@ tags: [github, blog, window, chirpy, theme]
    원하는 테마 git 주소로 들어가서 zip으로 다운받아 압축 해제한다.
     
    [chirpy theme git 주소]https://github.com/cotes2020/jekyll-theme-chirpy 
-   ![img](../_data/assets/images/git_zip_download.png)
+   
+   ![git_zip_download](https://user-images.githubusercontent.com/118417247/202658890-20e7a5fa-6127-44a3-9a54-c9203cb08251.png)
      
 ### **2. 로컬에 저장된 레파지토리에 복사**  
    로컬에 저장된 레파지토리(user_name.github.io)에 압축 해제한 폴더 안 파일을 전부 복붙.
