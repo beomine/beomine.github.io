@@ -2,7 +2,7 @@
 layout: post
 title:  "Github blog theme 적용 (chirpy) for window"
 date:   2022-11-18 15:39:33 +0900
-categories: [Study, Electron]
+categories: [Guide, github blog]
 tags: [github, blog, window, chirpy, theme]
 ---
 
