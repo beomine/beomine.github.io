@@ -80,7 +80,7 @@ links:
 
 ``` bash
 bundle install
-bundle exe jekyll serve
+bundle exec jekyll serve
 ```
 마지막 명령어를 실행하면 지킬 서버가 내 컴퓨터에서 실행된다.
 해당 주소로 들어가 화면을 확인해본다.
@@ -92,8 +92,6 @@ git add .
 git commit -m "download chirpy theme"
 git push
 ```
-git에 올려주고
-`bundle exe jekyll serve` 로 다시 빌드해주면
-내 블로그에 해당 테마가 적용된다.
+git에 올려주면 해당 테마가 적용된 걸 볼 수 있다.
 
 
