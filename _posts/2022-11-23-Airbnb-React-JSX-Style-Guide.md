@@ -32,7 +32,7 @@ tags: [style guide, react, jsx, airbnb]
   |"double"| JSX attributes|
   |'single'| all other JS|
       
-  ``` HTML 
+  ``` html 
    <Foo bar="bar"/>
    <Foo style={{ left: '20px' }}/>
   ```
@@ -43,12 +43,14 @@ tags: [style guide, react, jsx, airbnb]
 -  the prop value가 React component일 경우 PascalCase 사용
 
 ## Tags
-- 자식 컴포넌트가 없다면 항상 닫힘 태그 사용
-  ``` HTML
+- 자식 컴포넌트가 없다면 항상 닫힘 태그 사용  
+  
+  ``` html
     <Foo className="stuff" />
   ```
-- 컴포넌트가 다수의 속성을 가졌다면, 닫힘 태그는 다음 줄에 작성
-  ``` HTML
+- 컴포넌트가 다수의 속성을 가졌다면, 닫힘 태그는 다음 줄에 작성  
+  
+  ``` html
    <Foo 
      className="stuff"
      bar="bar"
