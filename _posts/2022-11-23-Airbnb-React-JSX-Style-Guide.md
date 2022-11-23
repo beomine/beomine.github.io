@@ -16,6 +16,7 @@ tags: [style guide, react, jsx, airbnb]
   |------|---|
   |PascalCase| React Components|
   |camelCase| their instances|
+      
   > ``` jsx 
   > import ReservationCard from './ReservationCard'
   > const reservationItem = <ReservationCard/> 
@@ -24,11 +25,12 @@ tags: [style guide, react, jsx, airbnb]
 - Props Naming : DOM component prop name을 사용하는 걸 피해라
 
 ## Quotes
-  
+     
   |style|Category|
   |------|---|
   |"double"| JSX attributes|
   |'single'| all other JS|
+      
   > ``` HTML 
   > <Foo bar="bar"/>
   > <Foo style={{ left: '20px' }}/>
