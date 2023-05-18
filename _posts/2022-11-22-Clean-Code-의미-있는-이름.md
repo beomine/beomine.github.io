@@ -28,4 +28,6 @@ tags: [Clean Code, Agile, software, Program, Programming, Programmer, robert c. 
 ## 검색하기 쉬운 이름을 사용하라
 -  Constant 적극 활용  
 ex) MAX_CLASSES_PER_STUDENT = 7 -> 7로는 검색하기 어렵지만 변수 이름으로 검색하면 용이하다.
-- 
+
+* Single-responsibility Principle (SRP:단일 책임 원칙) : 클래스는 단 한 개의 책임을 가져야 한다.
+* Open-Closed Principle (OCP:열림-닫힘 원칙) : 소프트웨어 엔티티(클래스, 모듈, 함수)는 확장을 위해 열려있고, 수정되어서는 안된다.
