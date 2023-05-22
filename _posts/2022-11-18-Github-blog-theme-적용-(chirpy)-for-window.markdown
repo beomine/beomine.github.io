@@ -8,8 +8,8 @@ tags: [github, blog, window, chirpy, theme]
 
 ### **1.원하는 테마 git zip으로 다운로드**
    원하는 테마 git 주소로 들어가서 zip으로 다운받아 압축 해제한다.
-    
-   [chirpy theme git 주소] https://github.com/cotes2020/jekyll-theme-chirpy 
+
+   [chirpy theme git 주소](https://github.com/cotes2020/jekyll-theme-chirpy)
    
    ![git_zip_download](https://user-images.githubusercontent.com/118417247/202658890-20e7a5fa-6127-44a3-9a54-c9203cb08251.png)
      

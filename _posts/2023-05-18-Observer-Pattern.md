@@ -9,7 +9,6 @@ tags: [Design Pattern, Observer, HeadFirst, GoF]
 
 ## 가상 스테이션
 ### 다이어그램
-<img src="_data/assets/../../../_data/assets/images/ObserverDiagram.png">
 
 ![ObserverDiagram](https://github.com/beomine/beomine.github.io/assets/118417247/9028c8d8-5d45-40f4-8f5e-483174baad2b)
 
