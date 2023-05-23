@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Electron 프로젝트에 React 올리기"
+author: beomine
 date:   2022-11-17 14:01:33 +0900
 categories: [Study, Electron]
 tags: [electron, typeScript, webpack, react]

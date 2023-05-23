@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google TypeScript Style Guide 정리
-author: sarah
+author: beomine
 date: 2022-11-21 20:55:00 +0900
 categories: [Guide, TypeScript]
 tags: [TypeScript, Style, Guide, naming convention]

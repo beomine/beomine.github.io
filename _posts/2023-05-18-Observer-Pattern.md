@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Observer Pattern (옵저버 패턴)
-author: sarah
+author: beomine
 date: 2023-05-18 16:53:00 +0900
 categories: [Study, Design Pattern]
-tags: [Design Pattern, Observer, HeadFirst, GoF]
+tags: [Design Pattern, Observer, HeadFirst, GoF, C#]
 ---
 
 ## 가상 스테이션

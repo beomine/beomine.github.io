@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# Never Ending Task
-author: sarah
+author: beomine
 date: 2023-05-23 01:36:00 +0900
 categories: [Study, C#]
 tags: [C#, CS, Task, 무한루프]

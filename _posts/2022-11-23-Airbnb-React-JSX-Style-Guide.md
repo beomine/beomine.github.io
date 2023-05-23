@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airbnb React/JSX Style Guide
-author: sarah
+author: beomine
 date: 2022-11-23 9:34:00 +0900
 categories: [Guide, React]
 tags: [style guide, react, jsx, airbnb]
