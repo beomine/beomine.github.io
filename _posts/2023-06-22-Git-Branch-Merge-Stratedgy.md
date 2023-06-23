@@ -46,3 +46,7 @@ tags: [git, branch, merge, fast-forward, rebase, squash]
    ``` bash
     git merge --squash branchX
    ```
+
+### 브랜치 삭제
+병합이 완료된 브랜치 삭제 : `git branch -d branchX`   
+병합하지 않은 브랜치 삭제 : `git branch -D branchX`
