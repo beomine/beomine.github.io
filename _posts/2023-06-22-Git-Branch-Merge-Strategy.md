@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Git Branch Merge Stratedgy
+title: Git Branch Merge Strategy
 author: beomine
 date: 2023-06-22 16:58:00 +0900
 categories: [Study, git]
 tags: [git, branch, merge, fast-forward, rebase, squash]
 ---
 
-## Git Branch Merge Stratedgy
+## Git Branch Merge Strategy
 1. 3 Way Merge  
     **특징**
     - Merge 시 새로운 Commit이 생성 됨  
