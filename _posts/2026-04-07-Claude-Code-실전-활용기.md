@@ -2,7 +2,7 @@
 layout: post
 title: "Claude Code 실전 활용기 — AI CLI 코딩 도구로 개발하기"
 author: beomine
-date: 2026-04-07 15:00:00 +0900
+date: 2026-04-07 00:00:00 +0900
 categories: [Guide, AI]
 tags: [AI, LLM, Claude Code, 개발도구, CLI]
 ---
