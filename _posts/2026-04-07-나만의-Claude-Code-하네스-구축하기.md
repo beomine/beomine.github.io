@@ -197,7 +197,7 @@ mkdir -p ~/.claude/memory
 
 ### git-workflow.md
 
-```markdown
+````markdown
 # Git 워크플로우
 
 ## 커밋 메시지 형식
@@ -211,7 +211,7 @@ mkdir -p ~/.claude/memory
 - `feat: 사용자 프로필 페이지 추가`
 - `fix: 로그인 시 토큰 만료 에러 수정`
 - `refactor: 인증 미들웨어 구조 개선`
-```
+````
 
 ---
 
