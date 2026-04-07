@@ -3,7 +3,7 @@ layout: post
 title: Airbnb React/JSX Style Guide
 author: beomine
 date: 2022-11-23 9:34:00 +0900
-categories: [Study]
+categories: [Study, Frontend]
 tags: [style guide, react, jsx, airbnb]
 ---
 

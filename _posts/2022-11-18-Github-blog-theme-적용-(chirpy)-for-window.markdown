@@ -3,7 +3,7 @@ layout: post
 title:  "Github blog theme 적용 (chirpy) for window"
 author: beomine
 date:   2022-11-18 15:39:33 +0900
-categories: [Study]
+categories: [Study, Frontend]
 tags: [github, blog, window, chirpy, theme]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Git Branch Merge Strategy
 author: beomine
 date: 2023-06-22 16:58:00 +0900
-categories: [Study]
+categories: [Study, Git]
 tags: [git, branch, merge, fast-forward, rebase, squash]
 ---
 

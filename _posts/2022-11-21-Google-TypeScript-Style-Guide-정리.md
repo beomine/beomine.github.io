@@ -3,7 +3,7 @@ layout: post
 title: Google TypeScript Style Guide 정리
 author: beomine
 date: 2022-11-21 20:55:00 +0900
-categories: [Study]
+categories: [Study, Frontend]
 tags: [TypeScript, Style, Guide, naming convention]
 ---
 

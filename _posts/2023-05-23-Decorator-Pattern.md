@@ -3,7 +3,7 @@ layout: post
 title: Decorator Pattern (데코레이터 패턴)
 author: beomine
 date: 2023-05-23 08:53:00 +0900
-categories: [Study]
+categories: [Study, Design Pattern]
 tags: [Design Pattern, Decorator, HeadFirst, GoF, C#]
 ---
 
