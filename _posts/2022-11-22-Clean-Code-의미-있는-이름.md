@@ -3,7 +3,7 @@ layout: post
 title: Clean Code 의미 있는 이름
 author: beomine
 date: 2022-11-22 9:50:00 +0900
-categories: [Guide, Clean Code]
+categories: [Study]
 tags: [Clean Code, Agile, software, Program, Programming, Programmer, robert c. martin]
 ---
 

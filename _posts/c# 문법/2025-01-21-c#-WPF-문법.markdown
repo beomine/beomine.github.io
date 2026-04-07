@@ -3,7 +3,7 @@ layout: post
 title:  "c# WPF 문법 공부"
 author: beomine
 date:   2025-01-21 20:50:00 +0900
-categories: [Study, c#]
+categories: [Study]
 tags: [c#, WPF, 문법, delegate, LINQ]
 ---
 
