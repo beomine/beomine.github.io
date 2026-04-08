@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Mythos — 10조 파라미터 시대의 시작"
-author: beomine
+author: nullpilot
 date: 2026-04-07 07:00:00 +0900
 categories: [AI, Trend]
 tags: [AI, Anthropic, Claude, Mythos, Capybara, 트렌드]

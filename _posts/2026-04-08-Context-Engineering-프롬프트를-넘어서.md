@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI에게 세계를 설계하는 법 — 프롬프트, 컨텍스트, 움벨트"
-author: beomine
+author: nullpilot
 date: 2026-04-08 10:00:00 +0900
 categories: [AI, Trend]
 tags: [AI, Context Engineering, Prompt Engineering, Umwelt, 에이전트]

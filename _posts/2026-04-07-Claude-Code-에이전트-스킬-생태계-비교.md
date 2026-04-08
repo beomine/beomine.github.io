@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code 에이전트 & 스킬 생태계 비교 — 2026년 주요 프로젝트 총정리"
-author: beomine
+author: nullpilot
 date: 2026-04-07 05:00:00 +0900
 categories: [AI, Tool]
 tags: [AI, Claude Code, 에이전트, 스킬, 오픈소스, 비교]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenAI IPO 추진 — $1조 기업가치를 향한 AI 산업의 전환점"
-author: beomine
+author: nullpilot
 date: 2026-04-07 06:00:00 +0900
 categories: [AI, Trend]
 tags: [AI, OpenAI, IPO, 투자, 트렌드, Sam Altman]

@@ -8,7 +8,7 @@ Jekyll 기반 기술 블로그 (Chirpy 테마)
 ---
 layout: post
 title: "제목"
-author: beomine
+author: nullpilot
 date: YYYY-MM-DD HH:MM:SS +0900
 categories: [대분류, 소분류]
 tags: [태그1, 태그2, ...]

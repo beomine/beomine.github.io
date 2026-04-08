@@ -22,12 +22,12 @@ future: true
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Beomine                          # the main title
+title: nullpilot                          # the main title
 
-tagline: for study   # it will display as the sub-title
+tagline: dev notes from nowhere   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  AI, engineering, and tech notes by nullpilot.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://beomine.github.io'
@@ -41,12 +41,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: sarah
-  email: rlaqjaals01@gmail.com             # change to your email address
+  name: nullpilot
+  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/beomine       # change to your github homepage
+    # - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/beomine.jpg'
+avatar: ''
 
 # boolean type, the global switch for ToC in posts.
 toc: true

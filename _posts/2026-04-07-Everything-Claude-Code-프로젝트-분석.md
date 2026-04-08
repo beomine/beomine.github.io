@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everything Claude Code 프로젝트 분석 — 잘 만든 하네스의 해부"
-author: beomine
+author: nullpilot
 date: 2026-04-07 03:00:00 +0900
 categories: [AI, Tool]
 tags: [AI, LLM, Claude Code, Harness Engineering, ECC, 오픈소스]

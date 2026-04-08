@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "나만의 Claude Code 하네스 구축하기 — 실전 설정 가이드"
-author: beomine
+author: nullpilot
 date: 2026-04-07 02:00:00 +0900
 categories: [AI, Tool]
 tags: [AI, LLM, Claude Code, Harness Engineering, 설정]
